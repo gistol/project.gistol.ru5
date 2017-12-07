@@ -8,6 +8,8 @@ $this->extend('layout.html.php');
 ?>
 
 
+<p>Test</p>;
+
 <script src="https://www.paypalobjects.com/api/checkout.js" data-version-4></script>
 <script src="https://js.braintreegateway.com/web/3.25.0/js/client.min.js"></script>
 <script src="https://js.braintreegateway.com/web/3.25.0/js/paypal-checkout.min.js"></script>
